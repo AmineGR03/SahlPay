@@ -1,0 +1,21 @@
+# Donnees generees (reproductibles avec producer.py)
+data/transactions_history.jsonl
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Spark / Jupyter
+spark-warehouse/
+metastore_db/
+derby.log
+.ipynb_checkpoints/
+
+# Environnement local
+.env
+
+# Captures du rapport
+rapport/captures/*
+!rapport/captures/.gitkeep

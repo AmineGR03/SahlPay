@@ -1,0 +1,300 @@
+{"merchant_id": "M-001", "name": "Epicerie El Baraka 001", "city": "Tanger", "category": "epicerie", "latitude": 35.733989, "longitude": -5.870046}
+{"merchant_id": "M-002", "name": "Oil Maroc 002", "city": "Casablanca", "category": "carburant", "latitude": 33.526278, "longitude": -7.63043}
+{"merchant_id": "M-003", "name": "Souk Market 003", "city": "Casablanca", "category": "epicerie", "latitude": 33.594702, "longitude": -7.569668}
+{"merchant_id": "M-004", "name": "Mode Atlas 004", "city": "Marrakech", "category": "mode", "latitude": 31.607319, "longitude": -7.94417}
+{"merchant_id": "M-005", "name": "Recharge Express 005", "city": "Agadir", "category": "telecom", "latitude": 30.420061, "longitude": -9.620313}
+{"merchant_id": "M-006", "name": "ShopOnline 006", "city": "Casablanca", "category": "e-commerce", "latitude": 33.532375, "longitude": -7.630128}
+{"merchant_id": "M-007", "name": "Pharmacie Al Shifa 007", "city": "Oujda", "category": "pharmacie", "latitude": 34.704373, "longitude": -1.904977}
+{"merchant_id": "M-008", "name": "Taxi Plus 008", "city": "Tetouan", "category": "transport", "latitude": 35.583704, "longitude": -5.33546}
+{"merchant_id": "M-009", "name": "ClickAchat 009", "city": "Tanger", "category": "e-commerce", "latitude": 35.728729, "longitude": -5.877044}
+{"merchant_id": "M-010", "name": "Pharmacie Al Shifa 010", "city": "Tanger", "category": "pharmacie", "latitude": 35.795032, "longitude": -5.797352}
+{"merchant_id": "M-011", "name": "Mode Atlas 011", "city": "Rabat", "category": "mode", "latitude": 34.054311, "longitude": -6.875335}
+{"merchant_id": "M-012", "name": "Pharmacie An Nour 012", "city": "Rabat", "category": "pharmacie", "latitude": 34.064565, "longitude": -6.826796}
+{"merchant_id": "M-013", "name": "Recharge Express 013", "city": "Tanger", "category": "telecom", "latitude": 35.782413, "longitude": -5.86766}
+{"merchant_id": "M-014", "name": "Restaurant Zitoune 014", "city": "Rabat", "category": "restauration", "latitude": 34.055185, "longitude": -6.814}
+{"merchant_id": "M-015", "name": "Epicerie El Baraka 015", "city": "Casablanca", "category": "epicerie", "latitude": 33.563216, "longitude": -7.633181}
+{"merchant_id": "M-016", "name": "ShopOnline 016", "city": "Kenitra", "category": "e-commerce", "latitude": 34.276544, "longitude": -6.590637}
+{"merchant_id": "M-017", "name": "Boutique Nour 017", "city": "Kenitra", "category": "mode", "latitude": 34.237488, "longitude": -6.605537}
+{"merchant_id": "M-018", "name": "Pharmacie An Nour 018", "city": "Fes", "category": "pharmacie", "latitude": 34.026559, "longitude": -4.968018}
+{"merchant_id": "M-019", "name": "Snack Medina 019", "city": "Marrakech", "category": "restauration", "latitude": 31.630453, "longitude": -8.022009}
+{"merchant_id": "M-020", "name": "Petrom 020", "city": "Casablanca", "category": "carburant", "latitude": 33.585845, "longitude": -7.560592}
+{"merchant_id": "M-021", "name": "Oil Maroc 021", "city": "Marrakech", "category": "carburant", "latitude": 31.617662, "longitude": -7.931488}
+{"merchant_id": "M-022", "name": "Hanout 022", "city": "Fes", "category": "epicerie", "latitude": 34.036271, "longitude": -5.004103}
+{"merchant_id": "M-023", "name": "ShopOnline 023", "city": "Rabat", "category": "e-commerce", "latitude": 34.00025, "longitude": -6.875784}
+{"merchant_id": "M-024", "name": "Pharmacie An Nour 024", "city": "Casablanca", "category": "pharmacie", "latitude": 33.599296, "longitude": -7.589032}
+{"merchant_id": "M-025", "name": "Pharmacie An Nour 025", "city": "Casablanca", "category": "pharmacie", "latitude": 33.573866, "longitude": -7.619909}
+{"merchant_id": "M-026", "name": "Recharge Express 026", "city": "Rabat", "category": "telecom", "latitude": 34.06625, "longitude": -6.799357}
+{"merchant_id": "M-027", "name": "MarocStore 027", "city": "Kenitra", "category": "e-commerce", "latitude": 34.212948, "longitude": -6.53729}
+{"merchant_id": "M-028", "name": "Pharmacie Al Shifa 028", "city": "Oujda", "category": "pharmacie", "latitude": 34.637193, "longitude": -1.870799}
+{"merchant_id": "M-029", "name": "Oil Maroc 029", "city": "Kenitra", "category": "carburant", "latitude": 34.292602, "longitude": -6.532402}
+{"merchant_id": "M-030", "name": "Telecom Shop 030", "city": "Fes", "category": "telecom", "latitude": 34.034075, "longitude": -4.963115}
+{"merchant_id": "M-031", "name": "Taxi Plus 031", "city": "Casablanca", "category": "transport", "latitude": 33.615991, "longitude": -7.564273}
+{"merchant_id": "M-032", "name": "Pharmacie Centrale 032", "city": "Tanger", "category": "pharmacie", "latitude": 35.809015, "longitude": -5.819012}
+{"merchant_id": "M-033", "name": "Boutique Nour 033", "city": "Marrakech", "category": "mode", "latitude": 31.604291, "longitude": -8.024697}
+{"merchant_id": "M-034", "name": "Snack Medina 034", "city": "Casablanca", "category": "restauration", "latitude": 33.523819, "longitude": -7.569016}
+{"merchant_id": "M-035", "name": "Station Atlas 035", "city": "Casablanca", "category": "carburant", "latitude": 33.609064, "longitude": -7.632714}
+{"merchant_id": "M-036", "name": "Boutique Nour 036", "city": "Rabat", "category": "mode", "latitude": 34.024823, "longitude": -6.819265}
+{"merchant_id": "M-037", "name": "Boutique Nour 037", "city": "Oujda", "category": "mode", "latitude": 34.709862, "longitude": -1.87785}
+{"merchant_id": "M-038", "name": "Oil Maroc 038", "city": "Casablanca", "category": "carburant", "latitude": 33.55853, "longitude": -7.59869}
+{"merchant_id": "M-039", "name": "Hanout 039", "city": "Oujda", "category": "epicerie", "latitude": 34.637461, "longitude": -1.885779}
+{"merchant_id": "M-040", "name": "Petrom 040", "city": "Meknes", "category": "carburant", "latitude": 33.862659, "longitude": -5.543671}
+{"merchant_id": "M-041", "name": "Boutique Mobile 041", "city": "Casablanca", "category": "telecom", "latitude": 33.569363, "longitude": -7.552351}
+{"merchant_id": "M-042", "name": "Station Atlas 042", "city": "Casablanca", "category": "carburant", "latitude": 33.588314, "longitude": -7.585741}
+{"merchant_id": "M-043", "name": "Petrom 043", "city": "Casablanca", "category": "carburant", "latitude": 33.539731, "longitude": -7.591236}
+{"merchant_id": "M-044", "name": "Taxi Plus 044", "city": "Casablanca", "category": "transport", "latitude": 33.539564, "longitude": -7.639584}
+{"merchant_id": "M-045", "name": "Pret a Porter 045", "city": "Rabat", "category": "mode", "latitude": 34.013201, "longitude": -6.795868}
+{"merchant_id": "M-046", "name": "Boutique Nour 046", "city": "Tetouan", "category": "mode", "latitude": 35.54749, "longitude": -5.39663}
+{"merchant_id": "M-047", "name": "Epicerie El Baraka 047", "city": "Casablanca", "category": "epicerie", "latitude": 33.528817, "longitude": -7.581382}
+{"merchant_id": "M-048", "name": "Telecom Shop 048", "city": "Marrakech", "category": "telecom", "latitude": 31.675578, "longitude": -8.023089}
+{"merchant_id": "M-049", "name": "Petrom 049", "city": "Casablanca", "category": "carburant", "latitude": 33.563478, "longitude": -7.54564}
+{"merchant_id": "M-050", "name": "Hanout 050", "city": "Fes", "category": "epicerie", "latitude": 34.010022, "longitude": -4.999433}
+{"merchant_id": "M-051", "name": "Pharmacie Al Shifa 051", "city": "Fes", "category": "pharmacie", "latitude": 34.035073, "longitude": -5.026382}
+{"merchant_id": "M-052", "name": "Recharge Express 052", "city": "Rabat", "category": "telecom", "latitude": 34.03545, "longitude": -6.845878}
+{"merchant_id": "M-053", "name": "Station Atlas 053", "city": "Kenitra", "category": "carburant", "latitude": 34.256829, "longitude": -6.530355}
+{"merchant_id": "M-054", "name": "Petrom 054", "city": "Tetouan", "category": "carburant", "latitude": 35.579088, "longitude": -5.405154}
+{"merchant_id": "M-055", "name": "Petrom 055", "city": "Rabat", "category": "carburant", "latitude": 34.007853, "longitude": -6.875825}
+{"merchant_id": "M-056", "name": "Pharmacie An Nour 056", "city": "Meknes", "category": "pharmacie", "latitude": 33.941885, "longitude": -5.51659}
+{"merchant_id": "M-057", "name": "Pharmacie An Nour 057", "city": "Fes", "category": "pharmacie", "latitude": 33.978459, "longitude": -4.969987}
+{"merchant_id": "M-058", "name": "Petrom 058", "city": "Rabat", "category": "carburant", "latitude": 33.998135, "longitude": -6.831117}
+{"merchant_id": "M-059", "name": "Restaurant Zitoune 059", "city": "Agadir", "category": "restauration", "latitude": 30.428341, "longitude": -9.622988}
+{"merchant_id": "M-060", "name": "Hanout 060", "city": "Kenitra", "category": "epicerie", "latitude": 34.274428, "longitude": -6.547265}
+{"merchant_id": "M-061", "name": "ShopOnline 061", "city": "Casablanca", "category": "e-commerce", "latitude": 33.586811, "longitude": -7.613604}
+{"merchant_id": "M-062", "name": "Transport Rapide 062", "city": "Agadir", "category": "transport", "latitude": 30.378767, "longitude": -9.640576}
+{"merchant_id": "M-063", "name": "Recharge Express 063", "city": "Oujda", "category": "telecom", "latitude": 34.635003, "longitude": -1.921678}
+{"merchant_id": "M-064", "name": "Taxi Plus 064", "city": "Fes", "category": "transport", "latitude": 33.972283, "longitude": -5.021335}
+{"merchant_id": "M-065", "name": "Epicerie El Baraka 065", "city": "Kenitra", "category": "epicerie", "latitude": 34.232008, "longitude": -6.605247}
+{"merchant_id": "M-066", "name": "Transport Rapide 066", "city": "Casablanca", "category": "transport", "latitude": 33.598048, "longitude": -7.547224}
+{"merchant_id": "M-067", "name": "Telecom Shop 067", "city": "Rabat", "category": "telecom", "latitude": 34.059042, "longitude": -6.889121}
+{"merchant_id": "M-068", "name": "MarocStore 068", "city": "Agadir", "category": "e-commerce", "latitude": 30.458024, "longitude": -9.561694}
+{"merchant_id": "M-069", "name": "Pharmacie Al Shifa 069", "city": "Meknes", "category": "pharmacie", "latitude": 33.922237, "longitude": -5.58649}
+{"merchant_id": "M-070", "name": "Boutique Nour 070", "city": "Oujda", "category": "mode", "latitude": 34.651357, "longitude": -1.866755}
+{"merchant_id": "M-071", "name": "Snack Medina 071", "city": "Rabat", "category": "restauration", "latitude": 33.973266, "longitude": -6.872287}
+{"merchant_id": "M-072", "name": "Station Al Amane 072", "city": "Rabat", "category": "carburant", "latitude": 34.006015, "longitude": -6.840659}
+{"merchant_id": "M-073", "name": "ShopOnline 073", "city": "Tanger", "category": "e-commerce", "latitude": 35.721034, "longitude": -5.78696}
+{"merchant_id": "M-074", "name": "Pharmacie Al Shifa 074", "city": "Casablanca", "category": "pharmacie", "latitude": 33.53394, "longitude": -7.596344}
+{"merchant_id": "M-075", "name": "MarocStore 075", "city": "Agadir", "category": "e-commerce", "latitude": 30.438421, "longitude": -9.596958}
+{"merchant_id": "M-076", "name": "Restaurant Zitoune 076", "city": "Rabat", "category": "restauration", "latitude": 33.975339, "longitude": -6.847994}
+{"merchant_id": "M-077", "name": "Restaurant Zitoune 077", "city": "Fes", "category": "restauration", "latitude": 34.01123, "longitude": -4.962913}
+{"merchant_id": "M-078", "name": "ClickAchat 078", "city": "Kenitra", "category": "e-commerce", "latitude": 34.295802, "longitude": -6.558225}
+{"merchant_id": "M-079", "name": "Pharmacie An Nour 079", "city": "Rabat", "category": "pharmacie", "latitude": 34.011739, "longitude": -6.85136}
+{"merchant_id": "M-080", "name": "Telecom Shop 080", "city": "Rabat", "category": "telecom", "latitude": 34.012945, "longitude": -6.797564}
+{"merchant_id": "M-081", "name": "Recharge Express 081", "city": "Tanger", "category": "telecom", "latitude": 35.766411, "longitude": -5.843392}
+{"merchant_id": "M-082", "name": "Pharmacie Centrale 082", "city": "Meknes", "category": "pharmacie", "latitude": 33.864518, "longitude": -5.518724}
+{"merchant_id": "M-083", "name": "MarocStore 083", "city": "Tanger", "category": "e-commerce", "latitude": 35.753679, "longitude": -5.816437}
+{"merchant_id": "M-084", "name": "Recharge Express 084", "city": "Fes", "category": "telecom", "latitude": 33.97658, "longitude": -5.006255}
+{"merchant_id": "M-085", "name": "ShopOnline 085", "city": "Tanger", "category": "e-commerce", "latitude": 35.791342, "longitude": -5.808886}
+{"merchant_id": "M-086", "name": "Snack Medina 086", "city": "Tanger", "category": "restauration", "latitude": 35.724235, "longitude": -5.879379}
+{"merchant_id": "M-087", "name": "Oil Maroc 087", "city": "Tetouan", "category": "carburant", "latitude": 35.569944, "longitude": -5.355423}
+{"merchant_id": "M-088", "name": "Bus City 088", "city": "Casablanca", "category": "transport", "latitude": 33.563065, "longitude": -7.625043}
+{"merchant_id": "M-089", "name": "Oil Maroc 089", "city": "Tanger", "category": "carburant", "latitude": 35.731384, "longitude": -5.803589}
+{"merchant_id": "M-090", "name": "Boutique Nour 090", "city": "Agadir", "category": "mode", "latitude": 30.433541, "longitude": -9.556353}
+{"merchant_id": "M-091", "name": "Boutique Mobile 091", "city": "Casablanca", "category": "telecom", "latitude": 33.589858, "longitude": -7.541011}
+{"merchant_id": "M-092", "name": "Mode Atlas 092", "city": "Fes", "category": "mode", "latitude": 34.049601, "longitude": -4.968598}
+{"merchant_id": "M-093", "name": "Boutique Nour 093", "city": "Marrakech", "category": "mode", "latitude": 31.653866, "longitude": -7.983633}
+{"merchant_id": "M-094", "name": "Restaurant Zitoune 094", "city": "Rabat", "category": "restauration", "latitude": 34.047481, "longitude": -6.83947}
+{"merchant_id": "M-095", "name": "Pharmacie Centrale 095", "city": "Tanger", "category": "pharmacie", "latitude": 35.717248, "longitude": -5.855427}
+{"merchant_id": "M-096", "name": "ClickAchat 096", "city": "Rabat", "category": "e-commerce", "latitude": 33.978958, "longitude": -6.876517}
+{"merchant_id": "M-097", "name": "Recharge Express 097", "city": "Rabat", "category": "telecom", "latitude": 33.992295, "longitude": -6.850113}
+{"merchant_id": "M-098", "name": "Pret a Porter 098", "city": "Rabat", "category": "mode", "latitude": 33.977127, "longitude": -6.808311}
+{"merchant_id": "M-099", "name": "Mini Marche 099", "city": "Rabat", "category": "epicerie", "latitude": 34.018598, "longitude": -6.797326}
+{"merchant_id": "M-100", "name": "Bus City 100", "city": "Rabat", "category": "transport", "latitude": 34.024722, "longitude": -6.818137}
+{"merchant_id": "M-101", "name": "Chez Karim 101", "city": "Meknes", "category": "restauration", "latitude": 33.865442, "longitude": -5.553716}
+{"merchant_id": "M-102", "name": "ClickAchat 102", "city": "Casablanca", "category": "e-commerce", "latitude": 33.591014, "longitude": -7.599368}
+{"merchant_id": "M-103", "name": "Boutique Nour 103", "city": "Casablanca", "category": "mode", "latitude": 33.621172, "longitude": -7.586388}
+{"merchant_id": "M-104", "name": "Hanout 104", "city": "Kenitra", "category": "epicerie", "latitude": 34.275275, "longitude": -6.61663}
+{"merchant_id": "M-105", "name": "Epicerie El Baraka 105", "city": "Marrakech", "category": "epicerie", "latitude": 31.61741, "longitude": -8.009934}
+{"merchant_id": "M-106", "name": "Bus City 106", "city": "Rabat", "category": "transport", "latitude": 34.046101, "longitude": -6.808408}
+{"merchant_id": "M-107", "name": "Oil Maroc 107", "city": "Rabat", "category": "carburant", "latitude": 33.972838, "longitude": -6.837658}
+{"merchant_id": "M-108", "name": "ShopOnline 108", "city": "Tetouan", "category": "e-commerce", "latitude": 35.593514, "longitude": -5.340277}
+{"merchant_id": "M-109", "name": "Souk Market 109", "city": "Tanger", "category": "epicerie", "latitude": 35.729436, "longitude": -5.881962}
+{"merchant_id": "M-110", "name": "Boutique Mobile 110", "city": "Casablanca", "category": "telecom", "latitude": 33.590046, "longitude": -7.583403}
+{"merchant_id": "M-111", "name": "Pharmacie Centrale 111", "city": "Casablanca", "category": "pharmacie", "latitude": 33.539879, "longitude": -7.579075}
+{"merchant_id": "M-112", "name": "Petrom 112", "city": "Agadir", "category": "carburant", "latitude": 30.474272, "longitude": -9.63729}
+{"merchant_id": "M-113", "name": "Pharmacie An Nour 113", "city": "Casablanca", "category": "pharmacie", "latitude": 33.590835, "longitude": -7.543983}
+{"merchant_id": "M-114", "name": "Cafe Riad 114", "city": "Marrakech", "category": "restauration", "latitude": 31.63871, "longitude": -7.948043}
+{"merchant_id": "M-115", "name": "Pharmacie An Nour 115", "city": "Rabat", "category": "pharmacie", "latitude": 34.030941, "longitude": -6.879494}
+{"merchant_id": "M-116", "name": "Epicerie El Baraka 116", "city": "Tetouan", "category": "epicerie", "latitude": 35.581775, "longitude": -5.352248}
+{"merchant_id": "M-117", "name": "ShopOnline 117", "city": "Casablanca", "category": "e-commerce", "latitude": 33.608058, "longitude": -7.557567}
+{"merchant_id": "M-118", "name": "ClickAchat 118", "city": "Casablanca", "category": "e-commerce", "latitude": 33.612258, "longitude": -7.593826}
+{"merchant_id": "M-119", "name": "Recharge Express 119", "city": "Casablanca", "category": "telecom", "latitude": 33.575275, "longitude": -7.574754}
+{"merchant_id": "M-120", "name": "Pret a Porter 120", "city": "Tanger", "category": "mode", "latitude": 35.753057, "longitude": -5.810897}
+{"merchant_id": "M-121", "name": "Cafe Riad 121", "city": "Rabat", "category": "restauration", "latitude": 33.998793, "longitude": -6.84652}
+{"merchant_id": "M-122", "name": "Bus City 122", "city": "Agadir", "category": "transport", "latitude": 30.38067, "longitude": -9.563005}
+{"merchant_id": "M-123", "name": "Restaurant Zitoune 123", "city": "Casablanca", "category": "restauration", "latitude": 33.602883, "longitude": -7.605766}
+{"merchant_id": "M-124", "name": "Pharmacie An Nour 124", "city": "Oujda", "category": "pharmacie", "latitude": 34.632415, "longitude": -1.863794}
+{"merchant_id": "M-125", "name": "Bus City 125", "city": "Casablanca", "category": "transport", "latitude": 33.578618, "longitude": -7.615768}
+{"merchant_id": "M-126", "name": "Pret a Porter 126", "city": "Marrakech", "category": "mode", "latitude": 31.658793, "longitude": -8.021795}
+{"merchant_id": "M-127", "name": "Restaurant Zitoune 127", "city": "Casablanca", "category": "restauration", "latitude": 33.589496, "longitude": -7.602898}
+{"merchant_id": "M-128", "name": "MarocStore 128", "city": "Fes", "category": "e-commerce", "latitude": 34.067763, "longitude": -5.002761}
+{"merchant_id": "M-129", "name": "Pret a Porter 129", "city": "Rabat", "category": "mode", "latitude": 34.001562, "longitude": -6.868546}
+{"merchant_id": "M-130", "name": "ShopOnline 130", "city": "Agadir", "category": "e-commerce", "latitude": 30.452088, "longitude": -9.553012}
+{"merchant_id": "M-131", "name": "Snack Medina 131", "city": "Tanger", "category": "restauration", "latitude": 35.78336, "longitude": -5.85635}
+{"merchant_id": "M-132", "name": "Pharmacie Al Shifa 132", "city": "Fes", "category": "pharmacie", "latitude": 34.051363, "longitude": -5.028175}
+{"merchant_id": "M-133", "name": "Pharmacie Al Shifa 133", "city": "Rabat", "category": "pharmacie", "latitude": 34.041702, "longitude": -6.878942}
+{"merchant_id": "M-134", "name": "Epicerie El Baraka 134", "city": "Casablanca", "category": "epicerie", "latitude": 33.592842, "longitude": -7.627172}
+{"merchant_id": "M-135", "name": "Boutique Nour 135", "city": "Oujda", "category": "mode", "latitude": 34.718672, "longitude": -1.901194}
+{"merchant_id": "M-136", "name": "Pret a Porter 136", "city": "Marrakech", "category": "mode", "latitude": 31.597936, "longitude": -8.025962}
+{"merchant_id": "M-137", "name": "Boutique Nour 137", "city": "Kenitra", "category": "mode", "latitude": 34.293212, "longitude": -6.590129}
+{"merchant_id": "M-138", "name": "Souk Market 138", "city": "Casablanca", "category": "epicerie", "latitude": 33.53802, "longitude": -7.583516}
+{"merchant_id": "M-139", "name": "Cafe Riad 139", "city": "Rabat", "category": "restauration", "latitude": 34.026707, "longitude": -6.849983}
+{"merchant_id": "M-140", "name": "Chez Karim 140", "city": "Fes", "category": "restauration", "latitude": 34.013151, "longitude": -5.013528}
+{"merchant_id": "M-141", "name": "Bus City 141", "city": "Oujda", "category": "transport", "latitude": 34.688263, "longitude": -1.952577}
+{"merchant_id": "M-142", "name": "Petrom 142", "city": "Tetouan", "category": "carburant", "latitude": 35.591052, "longitude": -5.391935}
+{"merchant_id": "M-143", "name": "Snack Medina 143", "city": "Casablanca", "category": "restauration", "latitude": 33.578299, "longitude": -7.624147}
+{"merchant_id": "M-144", "name": "Pret a Porter 144", "city": "Marrakech", "category": "mode", "latitude": 31.582764, "longitude": -8.00229}
+{"merchant_id": "M-145", "name": "Boutique Nour 145", "city": "Rabat", "category": "mode", "latitude": 34.039638, "longitude": -6.799209}
+{"merchant_id": "M-146", "name": "Chez Karim 146", "city": "Meknes", "category": "restauration", "latitude": 33.854978, "longitude": -5.574819}
+{"merchant_id": "M-147", "name": "Pharmacie Al Shifa 147", "city": "Casablanca", "category": "pharmacie", "latitude": 33.530241, "longitude": -7.623208}
+{"merchant_id": "M-148", "name": "Pharmacie Centrale 148", "city": "Rabat", "category": "pharmacie", "latitude": 33.983335, "longitude": -6.822732}
+{"merchant_id": "M-149", "name": "Pharmacie An Nour 149", "city": "Agadir", "category": "pharmacie", "latitude": 30.431798, "longitude": -9.604324}
+{"merchant_id": "M-150", "name": "Transport Rapide 150", "city": "Fes", "category": "transport", "latitude": 34.000332, "longitude": -5.032763}
+{"merchant_id": "M-151", "name": "Epicerie El Baraka 151", "city": "Casablanca", "category": "epicerie", "latitude": 33.580725, "longitude": -7.563489}
+{"merchant_id": "M-152", "name": "Pret a Porter 152", "city": "Casablanca", "category": "mode", "latitude": 33.541249, "longitude": -7.581267}
+{"merchant_id": "M-153", "name": "Boutique Nour 153", "city": "Tanger", "category": "mode", "latitude": 35.756501, "longitude": -5.843165}
+{"merchant_id": "M-154", "name": "Petrom 154", "city": "Rabat", "category": "carburant", "latitude": 34.00388, "longitude": -6.822233}
+{"merchant_id": "M-155", "name": "Transport Rapide 155", "city": "Rabat", "category": "transport", "latitude": 33.97457, "longitude": -6.882794}
+{"merchant_id": "M-156", "name": "Oil Maroc 156", "city": "Rabat", "category": "carburant", "latitude": 34.057391, "longitude": -6.809107}
+{"merchant_id": "M-157", "name": "Pret a Porter 157", "city": "Casablanca", "category": "mode", "latitude": 33.52852, "longitude": -7.587956}
+{"merchant_id": "M-158", "name": "Mode Atlas 158", "city": "Tanger", "category": "mode", "latitude": 35.753704, "longitude": -5.878839}
+{"merchant_id": "M-159", "name": "Boutique Mobile 159", "city": "Rabat", "category": "telecom", "latitude": 34.014712, "longitude": -6.821775}
+{"merchant_id": "M-160", "name": "Snack Medina 160", "city": "Casablanca", "category": "restauration", "latitude": 33.554175, "longitude": -7.638433}
+{"merchant_id": "M-161", "name": "Cafe Riad 161", "city": "Marrakech", "category": "restauration", "latitude": 31.625645, "longitude": -8.019353}
+{"merchant_id": "M-162", "name": "Mode Atlas 162", "city": "Meknes", "category": "mode", "latitude": 33.872686, "longitude": -5.526759}
+{"merchant_id": "M-163", "name": "Pret a Porter 163", "city": "Marrakech", "category": "mode", "latitude": 31.603873, "longitude": -7.975973}
+{"merchant_id": "M-164", "name": "Telecom Shop 164", "city": "Rabat", "category": "telecom", "latitude": 33.998525, "longitude": -6.812599}
+{"merchant_id": "M-165", "name": "Pharmacie Al Shifa 165", "city": "Marrakech", "category": "pharmacie", "latitude": 31.607784, "longitude": -8.001244}
+{"merchant_id": "M-166", "name": "Boutique Nour 166", "city": "Fes", "category": "mode", "latitude": 34.012755, "longitude": -5.009366}
+{"merchant_id": "M-167", "name": "Bus City 167", "city": "Rabat", "category": "transport", "latitude": 34.064185, "longitude": -6.80464}
+{"merchant_id": "M-168", "name": "Chez Karim 168", "city": "Tetouan", "category": "restauration", "latitude": 35.551856, "longitude": -5.340846}
+{"merchant_id": "M-169", "name": "Mode Atlas 169", "city": "Casablanca", "category": "mode", "latitude": 33.614443, "longitude": -7.601677}
+{"merchant_id": "M-170", "name": "Boutique Mobile 170", "city": "Tetouan", "category": "telecom", "latitude": 35.624982, "longitude": -5.405775}
+{"merchant_id": "M-171", "name": "ShopOnline 171", "city": "Tetouan", "category": "e-commerce", "latitude": 35.615919, "longitude": -5.374369}
+{"merchant_id": "M-172", "name": "Boutique Nour 172", "city": "Fes", "category": "mode", "latitude": 34.040344, "longitude": -5.016802}
+{"merchant_id": "M-173", "name": "Telecom Shop 173", "city": "Tanger", "category": "telecom", "latitude": 35.756449, "longitude": -5.78708}
+{"merchant_id": "M-174", "name": "Transport Rapide 174", "city": "Rabat", "category": "transport", "latitude": 33.978932, "longitude": -6.858743}
+{"merchant_id": "M-175", "name": "Bus City 175", "city": "Tanger", "category": "transport", "latitude": 35.77218, "longitude": -5.795256}
+{"merchant_id": "M-176", "name": "Hanout 176", "city": "Marrakech", "category": "epicerie", "latitude": 31.602977, "longitude": -7.96266}
+{"merchant_id": "M-177", "name": "Cafe Riad 177", "city": "Rabat", "category": "restauration", "latitude": 34.014297, "longitude": -6.881756}
+{"merchant_id": "M-178", "name": "Oil Maroc 178", "city": "Tanger", "category": "carburant", "latitude": 35.726136, "longitude": -5.854053}
+{"merchant_id": "M-179", "name": "ShopOnline 179", "city": "Casablanca", "category": "e-commerce", "latitude": 33.552437, "longitude": -7.602316}
+{"merchant_id": "M-180", "name": "Transport Rapide 180", "city": "Casablanca", "category": "transport", "latitude": 33.59128, "longitude": -7.621794}
+{"merchant_id": "M-181", "name": "Transport Rapide 181", "city": "Casablanca", "category": "transport", "latitude": 33.591413, "longitude": -7.590033}
+{"merchant_id": "M-182", "name": "Chez Karim 182", "city": "Fes", "category": "restauration", "latitude": 34.03189, "longitude": -5.011843}
+{"merchant_id": "M-183", "name": "Pret a Porter 183", "city": "Tanger", "category": "mode", "latitude": 35.777261, "longitude": -5.868202}
+{"merchant_id": "M-184", "name": "ClickAchat 184", "city": "Marrakech", "category": "e-commerce", "latitude": 31.609415, "longitude": -7.934897}
+{"merchant_id": "M-185", "name": "Pret a Porter 185", "city": "Tanger", "category": "mode", "latitude": 35.729422, "longitude": -5.845531}
+{"merchant_id": "M-186", "name": "Chez Karim 186", "city": "Marrakech", "category": "restauration", "latitude": 31.636692, "longitude": -7.973619}
+{"merchant_id": "M-187", "name": "Pharmacie Al Shifa 187", "city": "Tetouan", "category": "pharmacie", "latitude": 35.626294, "longitude": -5.352577}
+{"merchant_id": "M-188", "name": "Mini Marche 188", "city": "Rabat", "category": "epicerie", "latitude": 34.054184, "longitude": -6.801307}
+{"merchant_id": "M-189", "name": "Restaurant Zitoune 189", "city": "Meknes", "category": "restauration", "latitude": 33.8654, "longitude": -5.578287}
+{"merchant_id": "M-190", "name": "Recharge Express 190", "city": "Rabat", "category": "telecom", "latitude": 33.980616, "longitude": -6.828854}
+{"merchant_id": "M-191", "name": "Boutique Nour 191", "city": "Casablanca", "category": "mode", "latitude": 33.581057, "longitude": -7.566564}
+{"merchant_id": "M-192", "name": "Pharmacie Centrale 192", "city": "Casablanca", "category": "pharmacie", "latitude": 33.597848, "longitude": -7.622236}
+{"merchant_id": "M-193", "name": "ClickAchat 193", "city": "Casablanca", "category": "e-commerce", "latitude": 33.573279, "longitude": -7.612547}
+{"merchant_id": "M-194", "name": "Pret a Porter 194", "city": "Casablanca", "category": "mode", "latitude": 33.597756, "longitude": -7.605928}
+{"merchant_id": "M-195", "name": "Petrom 195", "city": "Casablanca", "category": "carburant", "latitude": 33.598515, "longitude": -7.617239}
+{"merchant_id": "M-196", "name": "Transport Rapide 196", "city": "Tanger", "category": "transport", "latitude": 35.746078, "longitude": -5.804932}
+{"merchant_id": "M-197", "name": "Oil Maroc 197", "city": "Casablanca", "category": "carburant", "latitude": 33.559959, "longitude": -7.564899}
+{"merchant_id": "M-198", "name": "Transport Rapide 198", "city": "Rabat", "category": "transport", "latitude": 34.064929, "longitude": -6.880765}
+{"merchant_id": "M-199", "name": "Epicerie El Baraka 199", "city": "Casablanca", "category": "epicerie", "latitude": 33.614626, "longitude": -7.617663}
+{"merchant_id": "M-200", "name": "Mode Atlas 200", "city": "Casablanca", "category": "mode", "latitude": 33.553319, "longitude": -7.59897}
+{"merchant_id": "M-201", "name": "Epicerie El Baraka 201", "city": "Casablanca", "category": "epicerie", "latitude": 33.622693, "longitude": -7.628188}
+{"merchant_id": "M-202", "name": "Boutique Mobile 202", "city": "Rabat", "category": "telecom", "latitude": 34.016264, "longitude": -6.824551}
+{"merchant_id": "M-203", "name": "Transport Rapide 203", "city": "Agadir", "category": "transport", "latitude": 30.452027, "longitude": -9.632648}
+{"merchant_id": "M-204", "name": "Oil Maroc 204", "city": "Marrakech", "category": "carburant", "latitude": 31.641065, "longitude": -7.937195}
+{"merchant_id": "M-205", "name": "ShopOnline 205", "city": "Rabat", "category": "e-commerce", "latitude": 34.015238, "longitude": -6.796544}
+{"merchant_id": "M-206", "name": "Station Al Amane 206", "city": "Oujda", "category": "carburant", "latitude": 34.685847, "longitude": -1.860816}
+{"merchant_id": "M-207", "name": "Bus City 207", "city": "Rabat", "category": "transport", "latitude": 33.989881, "longitude": -6.879384}
+{"merchant_id": "M-208", "name": "Boutique Nour 208", "city": "Oujda", "category": "mode", "latitude": 34.697677, "longitude": -1.89443}
+{"merchant_id": "M-209", "name": "Hanout 209", "city": "Fes", "category": "epicerie", "latitude": 34.046779, "longitude": -5.033443}
+{"merchant_id": "M-210", "name": "Cafe Riad 210", "city": "Casablanca", "category": "restauration", "latitude": 33.606082, "longitude": -7.584379}
+{"merchant_id": "M-211", "name": "Restaurant Zitoune 211", "city": "Fes", "category": "restauration", "latitude": 34.045537, "longitude": -4.978936}
+{"merchant_id": "M-212", "name": "Pharmacie Al Shifa 212", "city": "Fes", "category": "pharmacie", "latitude": 34.066853, "longitude": -5.003778}
+{"merchant_id": "M-213", "name": "Station Atlas 213", "city": "Meknes", "category": "carburant", "latitude": 33.85668, "longitude": -5.561476}
+{"merchant_id": "M-214", "name": "ShopOnline 214", "city": "Meknes", "category": "e-commerce", "latitude": 33.860925, "longitude": -5.59206}
+{"merchant_id": "M-215", "name": "Station Atlas 215", "city": "Agadir", "category": "carburant", "latitude": 30.425425, "longitude": -9.570298}
+{"merchant_id": "M-216", "name": "Oil Maroc 216", "city": "Fes", "category": "carburant", "latitude": 34.018484, "longitude": -4.963258}
+{"merchant_id": "M-217", "name": "Pharmacie Centrale 217", "city": "Casablanca", "category": "pharmacie", "latitude": 33.587434, "longitude": -7.636685}
+{"merchant_id": "M-218", "name": "Bus City 218", "city": "Tetouan", "category": "transport", "latitude": 35.59711, "longitude": -5.369373}
+{"merchant_id": "M-219", "name": "Station Atlas 219", "city": "Kenitra", "category": "carburant", "latitude": 34.243211, "longitude": -6.615367}
+{"merchant_id": "M-220", "name": "MarocStore 220", "city": "Casablanca", "category": "e-commerce", "latitude": 33.622563, "longitude": -7.586744}
+{"merchant_id": "M-221", "name": "Taxi Plus 221", "city": "Marrakech", "category": "transport", "latitude": 31.65881, "longitude": -8.019659}
+{"merchant_id": "M-222", "name": "Chez Karim 222", "city": "Tanger", "category": "restauration", "latitude": 35.754655, "longitude": -5.861151}
+{"merchant_id": "M-223", "name": "Pret a Porter 223", "city": "Rabat", "category": "mode", "latitude": 34.012499, "longitude": -6.882091}
+{"merchant_id": "M-224", "name": "Pharmacie Centrale 224", "city": "Marrakech", "category": "pharmacie", "latitude": 31.674859, "longitude": -7.962418}
+{"merchant_id": "M-225", "name": "Station Atlas 225", "city": "Marrakech", "category": "carburant", "latitude": 31.588823, "longitude": -8.021444}
+{"merchant_id": "M-226", "name": "Recharge Express 226", "city": "Agadir", "category": "telecom", "latitude": 30.383798, "longitude": -9.552438}
+{"merchant_id": "M-227", "name": "Oil Maroc 227", "city": "Fes", "category": "carburant", "latitude": 34.00346, "longitude": -4.991266}
+{"merchant_id": "M-228", "name": "Epicerie El Baraka 228", "city": "Agadir", "category": "epicerie", "latitude": 30.437841, "longitude": -9.612935}
+{"merchant_id": "M-229", "name": "Snack Medina 229", "city": "Fes", "category": "restauration", "latitude": 34.033774, "longitude": -5.035376}
+{"merchant_id": "M-230", "name": "ShopOnline 230", "city": "Casablanca", "category": "e-commerce", "latitude": 33.599361, "longitude": -7.58239}
+{"merchant_id": "M-231", "name": "Epicerie El Baraka 231", "city": "Meknes", "category": "epicerie", "latitude": 33.846395, "longitude": -5.569973}
+{"merchant_id": "M-232", "name": "MarocStore 232", "city": "Agadir", "category": "e-commerce", "latitude": 30.378411, "longitude": -9.561114}
+{"merchant_id": "M-233", "name": "Taxi Plus 233", "city": "Fes", "category": "transport", "latitude": 33.982287, "longitude": -4.994483}
+{"merchant_id": "M-234", "name": "Chez Karim 234", "city": "Casablanca", "category": "restauration", "latitude": 33.565083, "longitude": -7.60571}
+{"merchant_id": "M-235", "name": "ClickAchat 235", "city": "Rabat", "category": "e-commerce", "latitude": 34.030522, "longitude": -6.803266}
+{"merchant_id": "M-236", "name": "Hanout 236", "city": "Casablanca", "category": "epicerie", "latitude": 33.55031, "longitude": -7.573606}
+{"merchant_id": "M-237", "name": "Pret a Porter 237", "city": "Marrakech", "category": "mode", "latitude": 31.606817, "longitude": -7.955606}
+{"merchant_id": "M-238", "name": "Taxi Plus 238", "city": "Casablanca", "category": "transport", "latitude": 33.551425, "longitude": -7.571951}
+{"merchant_id": "M-239", "name": "Pharmacie Al Shifa 239", "city": "Marrakech", "category": "pharmacie", "latitude": 31.601552, "longitude": -7.932655}
+{"merchant_id": "M-240", "name": "Restaurant Zitoune 240", "city": "Casablanca", "category": "restauration", "latitude": 33.617632, "longitude": -7.563065}
+{"merchant_id": "M-241", "name": "Pharmacie Centrale 241", "city": "Agadir", "category": "pharmacie", "latitude": 30.389798, "longitude": -9.598361}
+{"merchant_id": "M-242", "name": "Boutique Mobile 242", "city": "Marrakech", "category": "telecom", "latitude": 31.632758, "longitude": -8.008089}
+{"merchant_id": "M-243", "name": "ShopOnline 243", "city": "Fes", "category": "e-commerce", "latitude": 34.007807, "longitude": -4.983596}
+{"merchant_id": "M-244", "name": "Boutique Nour 244", "city": "Marrakech", "category": "mode", "latitude": 31.665711, "longitude": -7.973524}
+{"merchant_id": "M-245", "name": "Bus City 245", "city": "Fes", "category": "transport", "latitude": 33.979617, "longitude": -5.055714}
+{"merchant_id": "M-246", "name": "Mode Atlas 246", "city": "Rabat", "category": "mode", "latitude": 34.062877, "longitude": -6.882787}
+{"merchant_id": "M-247", "name": "Chez Karim 247", "city": "Oujda", "category": "restauration", "latitude": 34.690287, "longitude": -1.906204}
+{"merchant_id": "M-248", "name": "Pharmacie An Nour 248", "city": "Marrakech", "category": "pharmacie", "latitude": 31.613451, "longitude": -7.997793}
+{"merchant_id": "M-249", "name": "Petrom 249", "city": "Casablanca", "category": "carburant", "latitude": 33.613692, "longitude": -7.604862}
+{"merchant_id": "M-250", "name": "Telecom Shop 250", "city": "Agadir", "category": "telecom", "latitude": 30.38808, "longitude": -9.622503}
+{"merchant_id": "M-251", "name": "Recharge Express 251", "city": "Casablanca", "category": "telecom", "latitude": 33.530635, "longitude": -7.544671}
+{"merchant_id": "M-252", "name": "Mode Atlas 252", "city": "Tanger", "category": "mode", "latitude": 35.785488, "longitude": -5.839109}
+{"merchant_id": "M-253", "name": "ClickAchat 253", "city": "Kenitra", "category": "e-commerce", "latitude": 34.242614, "longitude": -6.586224}
+{"merchant_id": "M-254", "name": "Pharmacie Centrale 254", "city": "Marrakech", "category": "pharmacie", "latitude": 31.638642, "longitude": -7.995906}
+{"merchant_id": "M-255", "name": "Pret a Porter 255", "city": "Casablanca", "category": "mode", "latitude": 33.526861, "longitude": -7.602926}
+{"merchant_id": "M-256", "name": "Oil Maroc 256", "city": "Rabat", "category": "carburant", "latitude": 34.017171, "longitude": -6.836168}
+{"merchant_id": "M-257", "name": "Mini Marche 257", "city": "Meknes", "category": "epicerie", "latitude": 33.934405, "longitude": -5.540134}
+{"merchant_id": "M-258", "name": "Mode Atlas 258", "city": "Casablanca", "category": "mode", "latitude": 33.538186, "longitude": -7.633613}
+{"merchant_id": "M-259", "name": "ClickAchat 259", "city": "Casablanca", "category": "e-commerce", "latitude": 33.531533, "longitude": -7.575187}
+{"merchant_id": "M-260", "name": "Pret a Porter 260", "city": "Casablanca", "category": "mode", "latitude": 33.575507, "longitude": -7.578819}
+{"merchant_id": "M-261", "name": "Pharmacie Centrale 261", "city": "Rabat", "category": "pharmacie", "latitude": 34.011777, "longitude": -6.857763}
+{"merchant_id": "M-262", "name": "ShopOnline 262", "city": "Fes", "category": "e-commerce", "latitude": 34.001069, "longitude": -5.002004}
+{"merchant_id": "M-263", "name": "Pharmacie An Nour 263", "city": "Rabat", "category": "pharmacie", "latitude": 34.056057, "longitude": -6.795159}
+{"merchant_id": "M-264", "name": "Boutique Mobile 264", "city": "Tanger", "category": "telecom", "latitude": 35.71765, "longitude": -5.817639}
+{"merchant_id": "M-265", "name": "Pharmacie An Nour 265", "city": "Kenitra", "category": "pharmacie", "latitude": 34.280848, "longitude": -6.591004}
+{"merchant_id": "M-266", "name": "Station Al Amane 266", "city": "Fes", "category": "carburant", "latitude": 34.023992, "longitude": -4.993451}
+{"merchant_id": "M-267", "name": "Recharge Express 267", "city": "Rabat", "category": "telecom", "latitude": 34.041183, "longitude": -6.796889}
+{"merchant_id": "M-268", "name": "Oil Maroc 268", "city": "Tetouan", "category": "carburant", "latitude": 35.579349, "longitude": -5.416577}
+{"merchant_id": "M-269", "name": "Restaurant Zitoune 269", "city": "Rabat", "category": "restauration", "latitude": 34.065667, "longitude": -6.842973}
+{"merchant_id": "M-270", "name": "Telecom Shop 270", "city": "Casablanca", "category": "telecom", "latitude": 33.530817, "longitude": -7.555357}
+{"merchant_id": "M-271", "name": "Epicerie El Baraka 271", "city": "Casablanca", "category": "epicerie", "latitude": 33.610739, "longitude": -7.577997}
+{"merchant_id": "M-272", "name": "Telecom Shop 272", "city": "Fes", "category": "telecom", "latitude": 33.986185, "longitude": -4.988515}
+{"merchant_id": "M-273", "name": "Recharge Express 273", "city": "Tanger", "category": "telecom", "latitude": 35.753267, "longitude": -5.842914}
+{"merchant_id": "M-274", "name": "Chez Karim 274", "city": "Tanger", "category": "restauration", "latitude": 35.77056, "longitude": -5.808761}
+{"merchant_id": "M-275", "name": "Snack Medina 275", "city": "Meknes", "category": "restauration", "latitude": 33.874447, "longitude": -5.516438}
+{"merchant_id": "M-276", "name": "Restaurant Zitoune 276", "city": "Marrakech", "category": "restauration", "latitude": 31.647331, "longitude": -7.974058}
+{"merchant_id": "M-277", "name": "Pharmacie Centrale 277", "city": "Marrakech", "category": "pharmacie", "latitude": 31.629791, "longitude": -7.989234}
+{"merchant_id": "M-278", "name": "Snack Medina 278", "city": "Casablanca", "category": "restauration", "latitude": 33.6104, "longitude": -7.634582}
+{"merchant_id": "M-279", "name": "ClickAchat 279", "city": "Marrakech", "category": "e-commerce", "latitude": 31.672929, "longitude": -7.95996}
+{"merchant_id": "M-280", "name": "Station Al Amane 280", "city": "Fes", "category": "carburant", "latitude": 33.976488, "longitude": -5.041769}
+{"merchant_id": "M-281", "name": "Boutique Mobile 281", "city": "Marrakech", "category": "telecom", "latitude": 31.588671, "longitude": -7.94005}
+{"merchant_id": "M-282", "name": "ShopOnline 282", "city": "Meknes", "category": "e-commerce", "latitude": 33.88499, "longitude": -5.557655}
+{"merchant_id": "M-283", "name": "Taxi Plus 283", "city": "Rabat", "category": "transport", "latitude": 34.008391, "longitude": -6.888781}
+{"merchant_id": "M-284", "name": "ShopOnline 284", "city": "Kenitra", "category": "e-commerce", "latitude": 34.22476, "longitude": -6.601512}
+{"merchant_id": "M-285", "name": "Recharge Express 285", "city": "Meknes", "category": "telecom", "latitude": 33.890411, "longitude": -5.535765}
+{"merchant_id": "M-286", "name": "Epicerie El Baraka 286", "city": "Kenitra", "category": "epicerie", "latitude": 34.232565, "longitude": -6.615248}
+{"merchant_id": "M-287", "name": "Taxi Plus 287", "city": "Kenitra", "category": "transport", "latitude": 34.288617, "longitude": -6.606436}
+{"merchant_id": "M-288", "name": "Chez Karim 288", "city": "Casablanca", "category": "restauration", "latitude": 33.586995, "longitude": -7.577519}
+{"merchant_id": "M-289", "name": "Mode Atlas 289", "city": "Casablanca", "category": "mode", "latitude": 33.576705, "longitude": -7.576605}
+{"merchant_id": "M-290", "name": "Boutique Mobile 290", "city": "Fes", "category": "telecom", "latitude": 34.011024, "longitude": -4.996319}
+{"merchant_id": "M-291", "name": "Taxi Plus 291", "city": "Rabat", "category": "transport", "latitude": 34.037337, "longitude": -6.883039}
+{"merchant_id": "M-292", "name": "Station Atlas 292", "city": "Tetouan", "category": "carburant", "latitude": 35.567545, "longitude": -5.371386}
+{"merchant_id": "M-293", "name": "MarocStore 293", "city": "Tanger", "category": "e-commerce", "latitude": 35.784232, "longitude": -5.848291}
+{"merchant_id": "M-294", "name": "Cafe Riad 294", "city": "Casablanca", "category": "restauration", "latitude": 33.60025, "longitude": -7.566281}
+{"merchant_id": "M-295", "name": "Epicerie El Baraka 295", "city": "Rabat", "category": "epicerie", "latitude": 34.025501, "longitude": -6.810249}
+{"merchant_id": "M-296", "name": "Mode Atlas 296", "city": "Casablanca", "category": "mode", "latitude": 33.570953, "longitude": -7.621572}
+{"merchant_id": "M-297", "name": "Boutique Nour 297", "city": "Casablanca", "category": "mode", "latitude": 33.552444, "longitude": -7.635419}
+{"merchant_id": "M-298", "name": "Epicerie El Baraka 298", "city": "Casablanca", "category": "epicerie", "latitude": 33.616437, "longitude": -7.588262}
+{"merchant_id": "M-299", "name": "Pret a Porter 299", "city": "Tetouan", "category": "mode", "latitude": 35.532162, "longitude": -5.35371}
+{"merchant_id": "M-300", "name": "Epicerie El Baraka 300", "city": "Rabat", "category": "epicerie", "latitude": 33.998222, "longitude": -6.811666}

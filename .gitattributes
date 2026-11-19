@@ -1,0 +1,9 @@
+# Les scripts et fichiers lus dans les conteneurs Linux doivent rester en LF :
+# un retour chariot CRLF casse le shebang (#!/bin/bash^M: not found).
+* text=auto eol=lf
+*.sh text eol=lf
+Dockerfile* text eol=lf
+*.conf text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf

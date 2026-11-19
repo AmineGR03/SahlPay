@@ -1,0 +1,34 @@
+# Notebook Jupyter PySpark aligne sur la meme version de Spark que le cluster.
+FROM jupyter/pyspark-notebook:spark-3.5.0
+
+USER root
+
+ENV HADOOP_AWS_VERSION=3.3.4 \
+    AWS_SDK_VERSION=1.12.262 \
+    SPARK_KAFKA_VERSION=3.5.1 \
+    KAFKA_CLIENTS_VERSION=3.5.1 \
+    COMMONS_POOL2_VERSION=2.11.1 \
+    DELTA_VERSION=3.2.0 \
+    GRAPHFRAMES_VERSION=0.8.3-spark3.5-s_2.12
+
+WORKDIR ${SPARK_HOME}/jars
+
+RUN set -eux; \
+    M2=https://repo1.maven.org/maven2; \
+    curl -fsSLO ${M2}/org/apache/hadoop/hadoop-aws/${HADOOP_AWS_VERSION}/hadoop-aws-${HADOOP_AWS_VERSION}.jar; \
+    curl -fsSLO ${M2}/com/amazonaws/aws-java-sdk-bundle/${AWS_SDK_VERSION}/aws-java-sdk-bundle-${AWS_SDK_VERSION}.jar; \
+    curl -fsSLO ${M2}/org/apache/spark/spark-sql-kafka-0-10_2.12/${SPARK_KAFKA_VERSION}/spark-sql-kafka-0-10_2.12-${SPARK_KAFKA_VERSION}.jar; \
+    curl -fsSLO ${M2}/org/apache/spark/spark-token-provider-kafka-0-10_2.12/${SPARK_KAFKA_VERSION}/spark-token-provider-kafka-0-10_2.12-${SPARK_KAFKA_VERSION}.jar; \
+    curl -fsSLO ${M2}/org/apache/kafka/kafka-clients/${KAFKA_CLIENTS_VERSION}/kafka-clients-${KAFKA_CLIENTS_VERSION}.jar; \
+    curl -fsSLO ${M2}/org/apache/commons/commons-pool2/${COMMONS_POOL2_VERSION}/commons-pool2-${COMMONS_POOL2_VERSION}.jar; \
+    curl -fsSLO ${M2}/io/delta/delta-spark_2.12/${DELTA_VERSION}/delta-spark_2.12-${DELTA_VERSION}.jar; \
+    curl -fsSLO ${M2}/io/delta/delta-storage/${DELTA_VERSION}/delta-storage-${DELTA_VERSION}.jar; \
+    curl -fsSL -o graphframes-${GRAPHFRAMES_VERSION}.jar \
+      https://repos.spark-packages.org/graphframes/graphframes/${GRAPHFRAMES_VERSION}/graphframes-${GRAPHFRAMES_VERSION}.jar
+
+COPY spark-defaults.conf ${SPARK_HOME}/conf/spark-defaults.conf
+
+RUN pip install --no-cache-dir kafka-python==2.0.2 graphframes==0.6 delta-spark==3.2.0
+
+USER ${NB_UID}
+WORKDIR /home/jovyan/work
